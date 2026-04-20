@@ -1,0 +1,380 @@
+[
+  {
+    "hanzi": "您",
+    "pinyin": "nín",
+    "ru": "Вы (вежливо)",
+    "category": "местоимение",
+    "exampleZh": "您好！您今天忙吗？",
+    "examplePinyin": "Nín hǎo! Nín jīntiān máng ma?",
+    "exampleRu": "Здравствуйте! Вы сегодня заняты?"
+  },
+  {
+    "hanzi": "它",
+    "pinyin": "tā",
+    "ru": "оно, это",
+    "category": "местоимение",
+    "exampleZh": "它是我的猫。",
+    "examplePinyin": "Tā shì wǒ de māo.",
+    "exampleRu": "Это мой кот."
+  },
+  {
+    "hanzi": "大家",
+    "pinyin": "dàjiā",
+    "ru": "все",
+    "category": "местоимение",
+    "exampleZh": "大家都来了。",
+    "examplePinyin": "Dàjiā dōu lái le.",
+    "exampleRu": "Все пришли."
+  },
+  {
+    "hanzi": "每",
+    "pinyin": "měi",
+    "ru": "каждый",
+    "category": "местоимение",
+    "exampleZh": "我每天学习汉语。",
+    "examplePinyin": "Wǒ měitiān xuéxí Hànyǔ.",
+    "exampleRu": "Я каждый день учу китайский."
+  },
+  {
+    "hanzi": "为什么",
+    "pinyin": "wèishénme",
+    "ru": "почему",
+    "category": "вопрос",
+    "exampleZh": "你为什么迟到？",
+    "examplePinyin": "Nǐ wèishénme chídào?",
+    "exampleRu": "Почему ты опоздал?"
+  },
+  {
+    "hanzi": "零",
+    "pinyin": "líng",
+    "ru": "ноль",
+    "category": "число",
+    "exampleZh": "今天是零下五度。",
+    "examplePinyin": "Jīntiān shì língxià wǔ dù.",
+    "exampleRu": "Сегодня пять градусов ниже нуля."
+  },
+  {
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "ru": "два",
+    "category": "число",
+    "exampleZh": "我买了两个苹果。",
+    "examplePinyin": "Wǒ mǎi le liǎng ge píngguǒ.",
+    "exampleRu": "Я купил два яблока."
+  },
+  {
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "ru": "сто",
+    "category": "число",
+    "exampleZh": "这个学校有一百个学生。",
+    "examplePinyin": "Zhège xuéxiào yǒu yì bǎi ge xuésheng.",
+    "exampleRu": "В этой школе сто учеников."
+  },
+  {
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "ru": "тысяча",
+    "category": "число",
+    "exampleZh": "一千个人来了。",
+    "examplePinyin": "Yì qiān ge rén lái le.",
+    "exampleRu": "Пришла тысяча человек."
+  },
+  {
+    "hanzi": "第一",
+    "pinyin": "dìyī",
+    "ru": "первый",
+    "category": "число",
+    "exampleZh": "我是第一个到的。",
+    "examplePinyin": "Wǒ shì dìyī ge dào de.",
+    "exampleRu": "Я пришёл первым."
+  },
+  {
+    "hanzi": "次",
+    "pinyin": "cì",
+    "ru": "раз, разы",
+    "category": "счётное слово",
+    "exampleZh": "我去过中国两次。",
+    "examplePinyin": "Wǒ qùguo Zhōngguó liǎng cì.",
+    "exampleRu": "Я был в Китае два раза."
+  },
+  {
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "ru": "штука, предмет одежды",
+    "category": "счётное слово",
+    "exampleZh": "我买了一件衣服。",
+    "examplePinyin": "Wǒ mǎi le yí jiàn yīfu.",
+    "exampleRu": "Я купил одну вещь одежды."
+  },
+  {
+    "hanzi": "别",
+    "pinyin": "bié",
+    "ru": "не надо",
+    "category": "частица",
+    "exampleZh": "别说话。",
+    "examplePinyin": "Bié shuōhuà.",
+    "exampleRu": "Не разговаривай."
+  },
+  {
+    "hanzi": "非常",
+    "pinyin": "fēicháng",
+    "ru": "очень",
+    "category": "наречие",
+    "exampleZh": "今天天气非常好。",
+    "examplePinyin": "Jīntiān tiānqì fēicháng hǎo.",
+    "exampleRu": "Сегодня очень хорошая погода."
+  },
+  {
+    "hanzi": "也",
+    "pinyin": "yě",
+    "ru": "тоже",
+    "category": "наречие",
+    "exampleZh": "我也想去。",
+    "examplePinyin": "Wǒ yě xiǎng qù.",
+    "exampleRu": "Я тоже хочу пойти."
+  },
+  {
+    "hanzi": "还",
+    "pinyin": "hái",
+    "ru": "ещё, всё ещё",
+    "category": "наречие",
+    "exampleZh": "他还没来。",
+    "examplePinyin": "Tā hái méi lái.",
+    "exampleRu": "Он ещё не пришёл."
+  },
+  {
+    "hanzi": "最",
+    "pinyin": "zuì",
+    "ru": "самый",
+    "category": "наречие",
+    "exampleZh": "这是我最喜欢的书。",
+    "examplePinyin": "Zhè shì wǒ zuì xǐhuan de shū.",
+    "exampleRu": "Это моя самая любимая книга."
+  },
+  {
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "ru": "действительно, правда",
+    "category": "наречие",
+    "exampleZh": "你真漂亮。",
+    "examplePinyin": "Nǐ zhēn piàoliang.",
+    "exampleRu": "Ты правда красивая."
+  },
+  {
+    "hanzi": "正在",
+    "pinyin": "zhèngzài",
+    "ru": "как раз сейчас",
+    "category": "наречие",
+    "exampleZh": "我正在吃饭。",
+    "examplePinyin": "Wǒ zhèngzài chīfàn.",
+    "exampleRu": "Я сейчас как раз ем."
+  },
+  {
+    "hanzi": "已经",
+    "pinyin": "yǐjīng",
+    "ru": "уже",
+    "category": "наречие",
+    "exampleZh": "我已经到了。",
+    "examplePinyin": "Wǒ yǐjīng dào le.",
+    "exampleRu": "Я уже приехал."
+  },
+  {
+    "hanzi": "一起",
+    "pinyin": "yìqǐ",
+    "ru": "вместе",
+    "category": "наречие",
+    "exampleZh": "我们一起学习吧。",
+    "examplePinyin": "Wǒmen yìqǐ xuéxí ba.",
+    "exampleRu": "Давай учиться вместе."
+  },
+  {
+    "hanzi": "再",
+    "pinyin": "zài",
+    "ru": "снова, ещё раз",
+    "category": "наречие",
+    "exampleZh": "请再说一次。",
+    "examplePinyin": "Qǐng zài shuō yí cì.",
+    "exampleRu": "Пожалуйста, скажите ещё раз."
+  },
+  {
+    "hanzi": "就",
+    "pinyin": "jiù",
+    "ru": "сразу, именно",
+    "category": "наречие",
+    "exampleZh": "我马上就来。",
+    "examplePinyin": "Wǒ mǎshàng jiù lái.",
+    "exampleRu": "Я сейчас сразу приду."
+  },
+  {
+    "hanzi": "因为……所以……",
+    "pinyin": "yīnwèi...suǒyǐ…",
+    "ru": "потому что… поэтому…",
+    "category": "конструкция",
+    "exampleZh": "因为下雨，所以我没去。",
+    "examplePinyin": "Yīnwèi xiàyǔ, suǒyǐ wǒ méi qù.",
+    "exampleRu": "Потому что шёл дождь, поэтому я не пошёл."
+  },
+  {
+    "hanzi": "虽然……但是……",
+    "pinyin": "suīrán…dànshì…",
+    "ru": "хотя… но…",
+    "category": "конструкция",
+    "exampleZh": "虽然很累，但是我很开心。",
+    "examplePinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+    "exampleRu": "Хотя я очень устал, но я рад."
+  },
+  {
+    "hanzi": "从",
+    "pinyin": "cóng",
+    "ru": "из, от, с",
+    "category": "предлог",
+    "exampleZh": "我从学校来。",
+    "examplePinyin": "Wǒ cóng xuéxiào lái.",
+    "exampleRu": "Я пришёл из школы."
+  },
+  {
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "ru": "по сравнению с",
+    "category": "предлог",
+    "exampleZh": "他比我高。",
+    "examplePinyin": "Tā bǐ wǒ gāo.",
+    "exampleRu": "Он выше меня."
+  },
+  {
+    "hanzi": "往",
+    "pinyin": "wǎng",
+    "ru": "в направлении, к",
+    "category": "предлог",
+    "exampleZh": "你一直往前走。",
+    "examplePinyin": "Nǐ yìzhí wǎng qián zǒu.",
+    "exampleRu": "Иди всё время вперёд."
+  },
+  {
+    "hanzi": "离",
+    "pinyin": "lí",
+    "ru": "от, на расстоянии от",
+    "category": "предлог",
+    "exampleZh": "我家离公司很近。",
+    "examplePinyin": "Wǒ jiā lí gōngsī hěn jìn.",
+    "exampleRu": "Мой дом находится близко от компании."
+  },
+  {
+    "hanzi": "得",
+    "pinyin": "de",
+    "ru": "служебная частица",
+    "category": "частица",
+    "exampleZh": "他说得很好。",
+    "examplePinyin": "Tā shuō de hěn hǎo.",
+    "exampleRu": "Он говорит очень хорошо."
+  },
+  {
+    "hanzi": "着",
+    "pinyin": "zhe",
+    "ru": "частица состояния",
+    "category": "частица",
+    "exampleZh": "门开着。",
+    "examplePinyin": "Mén kāi zhe.",
+    "exampleRu": "Дверь открыта."
+  },
+  {
+    "hanzi": "过",
+    "pinyin": "guò",
+    "ru": "частица завершённого опыта",
+    "category": "частица",
+    "exampleZh": "我去过北京。",
+    "examplePinyin": "Wǒ qùguo Běijīng.",
+    "exampleRu": "Я бывал в Пекине."
+  },
+  {
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "ru": "ладно, давай",
+    "category": "частица",
+    "exampleZh": "我们走吧。",
+    "examplePinyin": "Wǒmen zǒu ba.",
+    "exampleRu": "Пойдём."
+  },
+  {
+    "hanzi": "机场",
+    "pinyin": "jīchǎng",
+    "ru": "аэропорт",
+    "category": "место",
+    "exampleZh": "我在机场等你。",
+    "examplePinyin": "Wǒ zài jīchǎng děng nǐ.",
+    "exampleRu": "Я жду тебя в аэропорту."
+  },
+  {
+    "hanzi": "教室",
+    "pinyin": "jiàoshì",
+    "ru": "класс, аудитория",
+    "category": "место",
+    "exampleZh": "学生都在教室里。",
+    "examplePinyin": "Xuésheng dōu zài jiàoshì lǐ.",
+    "exampleRu": "Все ученики в аудитории."
+  },
+  {
+    "hanzi": "房间",
+    "pinyin": "fángjiān",
+    "ru": "комната",
+    "category": "место",
+    "exampleZh": "我的房间很小。",
+    "examplePinyin": "Wǒ de fángjiān hěn xiǎo.",
+    "exampleRu": "Моя комната очень маленькая."
+  },
+  {
+    "hanzi": "路",
+    "pinyin": "lù",
+    "ru": "дорога",
+    "category": "место",
+    "exampleZh": "这条路很长。",
+    "examplePinyin": "Zhè tiáo lù hěn cháng.",
+    "exampleRu": "Эта дорога очень длинная."
+  },
+  {
+    "hanzi": "左边",
+    "pinyin": "zuǒbiān",
+    "ru": "левая сторона, слева",
+    "category": "направление",
+    "exampleZh": "银行在左边。",
+    "examplePinyin": "Yínháng zài zuǒbiān.",
+    "exampleRu": "Банк слева."
+  },
+  {
+    "hanzi": "右边",
+    "pinyin": "yòubiān",
+    "ru": "правая сторона, справа",
+    "category": "направление",
+    "exampleZh": "超市在右边。",
+    "examplePinyin": "Chāoshì zài yòubiān.",
+    "exampleRu": "Супермаркет справа."
+  },
+  {
+    "hanzi": "外",
+    "pinyin": "wài",
+    "ru": "снаружи",
+    "category": "место",
+    "exampleZh": "他在门外。",
+    "examplePinyin": "Tā zài mén wài.",
+    "exampleRu": "Он снаружи у двери."
+  },
+  {
+    "hanzi": "旁边",
+    "pinyin": "pángbiān",
+    "ru": "рядом, сбоку",
+    "category": "место",
+    "exampleZh": "我坐在你旁边。",
+    "examplePinyin": "Wǒ zuò zài nǐ pángbiān.",
+    "exampleRu": "Я сижу рядом с тобой."
+  },
+  {
+    "hanzi": "一下",
+    "pinyin": "yīxià",
+    "ru": "немного, слегка",
+    "category": "частица",
+    "exampleZh": "请等一下。",
+    "examplePinyin": "Qǐng děng yíxià.",
+    "exampleRu": "Подождите немного."
+  }
+]
