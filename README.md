@@ -1,0 +1,1 @@
+# chinese_word_list_hsk2
